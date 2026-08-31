@@ -1,41 +1,41 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "fiverocks-dev/saju-codi",
-  "sourceCommit": "581c8278226b8657c265be944721f5544a610b60",
+  "sourceCommit": "fc5f1493f44c84c01b233e5bf64ef028797de2a4",
   "buildWorkflow": "CI",
-  "buildRunId": "33369628046",
-  "runnerName": "FRD-DESKTOP-01",
-  "builtAt": "2026-08-31T07:48:27.602Z",
+  "buildRunId": "33447934595",
+  "runnerName": "FRD-LAPTOP-01",
+  "builtAt": "2026-08-31T22:52:54.063Z",
   "toolchain": "Next.js 16.3.3 / Node 24 / pnpm 11.23.0",
   "channel": "preview",
   "basePath": "/saju-codi/preview",
   "files": [
     {
       "path": "404.html",
-      "sha256": "df5b0c2f6a7bc6495ddcad5722759b6509b56fc45c85fd32f874caf48f6ac0cf"
+      "sha256": "5938f0eafcf34a3ebc2113cbb516600efa0e6cb6cc6fe87bf8cb898cef62893b"
     },
     {
       "path": "__next.__PAGE__.txt",
-      "sha256": "36c3601e5991fd9ba278ed5c11b8de9e1411fa81bbc7ca24e138ff74d943c60c"
+      "sha256": "fb3c76b23e53cf870a4bcb0a374439c0d6b2cfe6395408f7a534b11455cb271f"
     },
     {
       "path": "__next._full.txt",
-      "sha256": "547e1c85f716731093d17264cd1bfe8d7c05be5b165c4dc7c83cf2816426f290"
+      "sha256": "a2529298f55658085c6f3f561e0aadb3d74d4ee2f99d54e879a07ffa0352e3e2"
     },
     {
       "path": "__next._tree.txt",
-      "sha256": "59ae64957de6651b81e66d19b696f707230a019d285e01943f910118d24bad08"
+      "sha256": "8b483627a277dabf0907c8eefbd5d84df38154cb32ae8ca271c2972591173221"
     },
     {
-      "path": "_next/static/5N8_gt6uUsbIV8zlj1HGp/_buildManifest.js",
+      "path": "_next/static/DyysBX2l4qDDH6zV9vy_2/_buildManifest.js",
       "sha256": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea"
     },
     {
-      "path": "_next/static/5N8_gt6uUsbIV8zlj1HGp/_clientMiddlewareManifest.js",
+      "path": "_next/static/DyysBX2l4qDDH6zV9vy_2/_clientMiddlewareManifest.js",
       "sha256": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a"
     },
     {
-      "path": "_next/static/5N8_gt6uUsbIV8zlj1HGp/_ssgManifest.js",
+      "path": "_next/static/DyysBX2l4qDDH6zV9vy_2/_ssgManifest.js",
       "sha256": "678f6ce2cb80b1fe72fc67e7412be6e2ab6ada083111b64f7c40d35e3cba5e00"
     },
     {
@@ -55,8 +55,8 @@
       "sha256": "6fda58aa7e3f3b19a92425a1c1ee4558f67e6741ce70d4d18fbeb0e162c9f708"
     },
     {
-      "path": "_next/static/chunks/23t3yysxhdem8.js",
-      "sha256": "870fc55d0cac8a687adac9bd844499139d590996538965ff3766659713aaa719"
+      "path": "_next/static/chunks/267c2c6k_npqx.js",
+      "sha256": "32a1a94d614bdf09920daa850639a8b0f36038db9d25de5fbe78ad6ae9428fe3"
     },
     {
       "path": "_next/static/chunks/33i_ns8l-62mw.css",
@@ -72,27 +72,31 @@
     },
     {
       "path": "_not-found.html",
-      "sha256": "df5b0c2f6a7bc6495ddcad5722759b6509b56fc45c85fd32f874caf48f6ac0cf"
+      "sha256": "5938f0eafcf34a3ebc2113cbb516600efa0e6cb6cc6fe87bf8cb898cef62893b"
     },
     {
       "path": "_not-found.txt",
-      "sha256": "42263fe1efdb7d5db5d84c19650b0e99bea31a4d54419f0b02d22a6d6387c4d9"
+      "sha256": "6a2d54c37e3283769b6de09ed44c42f652eab5e15b6b29eedfb3a18052535dff"
     },
     {
       "path": "_not-found/__next._full.txt",
-      "sha256": "42263fe1efdb7d5db5d84c19650b0e99bea31a4d54419f0b02d22a6d6387c4d9"
+      "sha256": "6a2d54c37e3283769b6de09ed44c42f652eab5e15b6b29eedfb3a18052535dff"
     },
     {
       "path": "_not-found/__next._not-found/__PAGE__.txt",
-      "sha256": "468630ed7d11f906aef562ac243032fe472eed7c82d13a604e1afb6cc335ee75"
+      "sha256": "2a83f218a214fe332721a7cbe2bcda35265ba0553102fa4fade68ec81681bf29"
     },
     {
       "path": "_not-found/__next._tree.txt",
-      "sha256": "e6a081dd6a5d4469828a920430b33380f92a291914ef6b261fded6b445014c5b"
+      "sha256": "d29fa652d1402aaeac185eb56a32491e892e0017fc1aa950253acda6d00df8dc"
     },
     {
       "path": "api/health",
       "sha256": "944917694a35c7fd3f02f02b114cf2d60f4db4d182d177e1696a256c80b4807e"
+    },
+    {
+      "path": "assets/mvp/female/sprite.webp",
+      "sha256": "232e9916c6b5b0028ebcdb98ad81ac737134919d9f91e7a736de8d0125a2079f"
     },
     {
       "path": "assets/semi-real-avatar-daily.svg",
@@ -100,11 +104,11 @@
     },
     {
       "path": "index.html",
-      "sha256": "2243a298950c2032287b95d7740b1bc77ceedc82d82404f81c81e7ed587a05c4"
+      "sha256": "716635bb6aa7ecd089e4d3859eef74a8cd7c20eb621fd1b7bb8c33d233493cb5"
     },
     {
       "path": "index.txt",
-      "sha256": "547e1c85f716731093d17264cd1bfe8d7c05be5b165c4dc7c83cf2816426f290"
+      "sha256": "a2529298f55658085c6f3f561e0aadb3d74d4ee2f99d54e879a07ffa0352e3e2"
     }
   ]
 }
