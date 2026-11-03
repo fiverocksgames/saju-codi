@@ -1,42 +1,30 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "fiverocks-dev/saju-codi",
-  "sourceCommit": "d74c6fac4dae2c42d142303987f7e7948c1fa20e",
+  "sourceCommit": "1b2382be1344412d31bdd275ac50eff18ac2fbfc",
   "buildWorkflow": "CI",
-  "buildRunId": "41617209687",
-  "runnerName": "FRD-DESTOP-02",
-  "builtAt": "2026-11-03T10:18:55.944Z",
+  "buildRunId": "41650199750",
+  "runnerName": "FRD-LAPTOP-01",
+  "builtAt": "2026-11-03T14:09:49.016Z",
   "toolchain": "Next.js 16.3.3 / Node 24 / pnpm 11.23.0",
   "channel": "preview",
   "basePath": "/saju-codi/preview",
   "files": [
     {
       "path": "404.html",
-      "sha256": "789f61064de32074a13f5a98f09fa24922d5720d6dcf188c851b61d2cc010a12"
+      "sha256": "efb78c2cc8b2d1cb14a6ae1f93f5585295b14d841515299b7fbebb547971b7f0"
     },
     {
       "path": "__next.__PAGE__.txt",
-      "sha256": "3394575905af57db0dfa52721b05a500849fada858cb1a5397c023021b9159da"
+      "sha256": "f66b60c70494707f87c55579b70f0b379bf1ca708fb1a7413c377eada1c890ea"
     },
     {
       "path": "__next._full.txt",
-      "sha256": "67a6a3e64f165dbe9dbad2468fe764de1efb8ced82bf40828fe54ff7232e6bb7"
+      "sha256": "8f30a56e21324b8c6ce84a7772b605f90ccb039bcaeedfa2537485772adc5f71"
     },
     {
       "path": "__next._tree.txt",
-      "sha256": "c7b4a30eafc68d570ab26409e5900cfb5a0cc5fb2f5ab1bb98097e3c7579f737"
-    },
-    {
-      "path": "_next/static/OgLdutFI-CTIzs0V_7ZL4/_buildManifest.js",
-      "sha256": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea"
-    },
-    {
-      "path": "_next/static/OgLdutFI-CTIzs0V_7ZL4/_clientMiddlewareManifest.js",
-      "sha256": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a"
-    },
-    {
-      "path": "_next/static/OgLdutFI-CTIzs0V_7ZL4/_ssgManifest.js",
-      "sha256": "678f6ce2cb80b1fe72fc67e7412be6e2ab6ada083111b64f7c40d35e3cba5e00"
+      "sha256": "9ef522e2f4495f8a59b59af51eb8f3e407de70c259cb7002566d80b57f6c0cbd"
     },
     {
       "path": "_next/static/chunks/0425_tyx5_alm.js",
@@ -71,24 +59,36 @@
       "sha256": "921a0301e197350174993b7fb89c23581aa715f25d1275efd12e6c3ad3f922f0"
     },
     {
+      "path": "_next/static/sWsZ-Qs81wrI8XbsWBpTD/_buildManifest.js",
+      "sha256": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea"
+    },
+    {
+      "path": "_next/static/sWsZ-Qs81wrI8XbsWBpTD/_clientMiddlewareManifest.js",
+      "sha256": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a"
+    },
+    {
+      "path": "_next/static/sWsZ-Qs81wrI8XbsWBpTD/_ssgManifest.js",
+      "sha256": "678f6ce2cb80b1fe72fc67e7412be6e2ab6ada083111b64f7c40d35e3cba5e00"
+    },
+    {
       "path": "_not-found.html",
-      "sha256": "789f61064de32074a13f5a98f09fa24922d5720d6dcf188c851b61d2cc010a12"
+      "sha256": "efb78c2cc8b2d1cb14a6ae1f93f5585295b14d841515299b7fbebb547971b7f0"
     },
     {
       "path": "_not-found.txt",
-      "sha256": "c957258d5b83d236a856b887c087fc949379e286f5e94ae40750a4558afa2aae"
+      "sha256": "212e4652cd8948d2fe43b55003d9a6293185575808f69a5c1876ce43d4980259"
     },
     {
       "path": "_not-found/__next._full.txt",
-      "sha256": "c957258d5b83d236a856b887c087fc949379e286f5e94ae40750a4558afa2aae"
+      "sha256": "212e4652cd8948d2fe43b55003d9a6293185575808f69a5c1876ce43d4980259"
     },
     {
       "path": "_not-found/__next._not-found/__PAGE__.txt",
-      "sha256": "6b4c290508ca7373553cf995364b64a5f5280fc97af08bba9e245ad1dde931e4"
+      "sha256": "e88d82fc8f40a1a3214dcf3d62830012275d99f69d118a59f6f3f776beb4f721"
     },
     {
       "path": "_not-found/__next._tree.txt",
-      "sha256": "631e51e46cdd14947daf474d7fc98b203378a4665e3e64e648d4a2a21800526f"
+      "sha256": "79520834dd653a0041fd6c2d22880252843aade55050cf066b27822baca0629a"
     },
     {
       "path": "api/health",
@@ -104,11 +104,11 @@
     },
     {
       "path": "index.html",
-      "sha256": "490ad1b82d94ab8c9b2f4dddfb0b28013b3c426aaf0e2d8ad3b1a960490165d7"
+      "sha256": "e0b2aa374437137c89f52c05ee99ac6ee3a00d815b1e2c871dc9eaf79993b5c9"
     },
     {
       "path": "index.txt",
-      "sha256": "67a6a3e64f165dbe9dbad2468fe764de1efb8ced82bf40828fe54ff7232e6bb7"
+      "sha256": "8f30a56e21324b8c6ce84a7772b605f90ccb039bcaeedfa2537485772adc5f71"
     }
   ]
 }
