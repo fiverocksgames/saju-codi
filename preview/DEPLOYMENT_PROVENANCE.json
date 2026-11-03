@@ -1,41 +1,41 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "fiverocks-dev/saju-codi",
-  "sourceCommit": "1a0927a545e0a3e35f3a00f4354cabf5207f70e4",
+  "sourceCommit": "d74c6fac4dae2c42d142303987f7e7948c1fa20e",
   "buildWorkflow": "CI",
-  "buildRunId": "41575272305",
-  "runnerName": "FRD-DESKTOP-01",
-  "builtAt": "2026-11-03T04:06:50.687Z",
+  "buildRunId": "41617209687",
+  "runnerName": "FRD-DESTOP-02",
+  "builtAt": "2026-11-03T10:18:55.944Z",
   "toolchain": "Next.js 16.3.3 / Node 24 / pnpm 11.23.0",
   "channel": "preview",
   "basePath": "/saju-codi/preview",
   "files": [
     {
       "path": "404.html",
-      "sha256": "bd49fc7c13dc6bc0d419061d59ec0bb74d623ab8608d9e5810eb9b506c8927cc"
+      "sha256": "789f61064de32074a13f5a98f09fa24922d5720d6dcf188c851b61d2cc010a12"
     },
     {
       "path": "__next.__PAGE__.txt",
-      "sha256": "c32a4049cdc4654924a93f2bf210489e1fc3c9b097216da43500f35557829dd3"
+      "sha256": "3394575905af57db0dfa52721b05a500849fada858cb1a5397c023021b9159da"
     },
     {
       "path": "__next._full.txt",
-      "sha256": "0af3cb0850656c29363aa90051cc79faffa00733b9fe109eea69d04ba0b8b46b"
+      "sha256": "67a6a3e64f165dbe9dbad2468fe764de1efb8ced82bf40828fe54ff7232e6bb7"
     },
     {
       "path": "__next._tree.txt",
-      "sha256": "dbd9cdc63223b8e158065c348a000b19658adf332fe64a426531be4ed49670a7"
+      "sha256": "c7b4a30eafc68d570ab26409e5900cfb5a0cc5fb2f5ab1bb98097e3c7579f737"
     },
     {
-      "path": "_next/static/8LHdnorA3y4u63dPlzkaI/_buildManifest.js",
+      "path": "_next/static/OgLdutFI-CTIzs0V_7ZL4/_buildManifest.js",
       "sha256": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea"
     },
     {
-      "path": "_next/static/8LHdnorA3y4u63dPlzkaI/_clientMiddlewareManifest.js",
+      "path": "_next/static/OgLdutFI-CTIzs0V_7ZL4/_clientMiddlewareManifest.js",
       "sha256": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a"
     },
     {
-      "path": "_next/static/8LHdnorA3y4u63dPlzkaI/_ssgManifest.js",
+      "path": "_next/static/OgLdutFI-CTIzs0V_7ZL4/_ssgManifest.js",
       "sha256": "678f6ce2cb80b1fe72fc67e7412be6e2ab6ada083111b64f7c40d35e3cba5e00"
     },
     {
@@ -72,23 +72,23 @@
     },
     {
       "path": "_not-found.html",
-      "sha256": "bd49fc7c13dc6bc0d419061d59ec0bb74d623ab8608d9e5810eb9b506c8927cc"
+      "sha256": "789f61064de32074a13f5a98f09fa24922d5720d6dcf188c851b61d2cc010a12"
     },
     {
       "path": "_not-found.txt",
-      "sha256": "24a7da58fa122cbfc36b4e174f3c2746a36945cb2ddfd29c4984eda2bf117c27"
+      "sha256": "c957258d5b83d236a856b887c087fc949379e286f5e94ae40750a4558afa2aae"
     },
     {
       "path": "_not-found/__next._full.txt",
-      "sha256": "24a7da58fa122cbfc36b4e174f3c2746a36945cb2ddfd29c4984eda2bf117c27"
+      "sha256": "c957258d5b83d236a856b887c087fc949379e286f5e94ae40750a4558afa2aae"
     },
     {
       "path": "_not-found/__next._not-found/__PAGE__.txt",
-      "sha256": "2db5921b50b22586200f4c9fa63473d6f831d0dc3672b43afd7b10e8e86f33b1"
+      "sha256": "6b4c290508ca7373553cf995364b64a5f5280fc97af08bba9e245ad1dde931e4"
     },
     {
       "path": "_not-found/__next._tree.txt",
-      "sha256": "cc1d1aa7a8d0219e30865a7fff1a55fa815e8c7d81ec0e9a112f3aa183f382a9"
+      "sha256": "631e51e46cdd14947daf474d7fc98b203378a4665e3e64e648d4a2a21800526f"
     },
     {
       "path": "api/health",
@@ -104,11 +104,11 @@
     },
     {
       "path": "index.html",
-      "sha256": "3f40c0c0dc75254241b97641ef1ca8b44898bdd5dcbe9b409dc6583fb4285951"
+      "sha256": "490ad1b82d94ab8c9b2f4dddfb0b28013b3c426aaf0e2d8ad3b1a960490165d7"
     },
     {
       "path": "index.txt",
-      "sha256": "0af3cb0850656c29363aa90051cc79faffa00733b9fe109eea69d04ba0b8b46b"
+      "sha256": "67a6a3e64f165dbe9dbad2468fe764de1efb8ced82bf40828fe54ff7232e6bb7"
     }
   ]
 }
