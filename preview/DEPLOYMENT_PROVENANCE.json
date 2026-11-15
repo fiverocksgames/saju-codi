@@ -1,30 +1,42 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "fiverocks-dev/saju-codi",
-  "sourceCommit": "17d7ba5dc02d6484a06b0537874755c501cbd387",
+  "sourceCommit": "3bba7b574da47cefe72d06995c138d23c32aa925",
   "buildWorkflow": "CI",
-  "buildRunId": "43330934394",
+  "buildRunId": "43675661838",
   "runnerName": "FRD-DESKTOP-03",
-  "builtAt": "2026-11-12T23:46:31.335Z",
+  "builtAt": "2026-11-15T04:21:06.912Z",
   "toolchain": "Next.js 16.3.3 / Node 24 / pnpm 11.23.0",
   "channel": "preview",
   "basePath": "/saju-codi/preview",
   "files": [
     {
       "path": "404.html",
-      "sha256": "d46b29cc33faf66fb668b7feade7911ba37a2e9adc9bab6c84cf92dfa989ba82"
+      "sha256": "ef4a0d8c53a568c86c7c5546d80d6a6d49500b7d321197f06701f2498f69f15b"
     },
     {
       "path": "__next.__PAGE__.txt",
-      "sha256": "5f119270aa53e1335251a150b7c8628208e12db0a0a459ceb3891f5a5d91ac34"
+      "sha256": "8fbe16e3b00fb8c933bfdbfa90e0c5353a86144f4d8b9e8b3b4ccab4137348c0"
     },
     {
       "path": "__next._full.txt",
-      "sha256": "fdaf90b0d439ead5500015d075ee29544d2e5019e160c55bd66e76b48657f44d"
+      "sha256": "42db71b9778cfb17217b90333fd9317bc1a819d8edb69e5cde13b21abd28e803"
     },
     {
       "path": "__next._tree.txt",
-      "sha256": "bf6c566b6d2dff8e19224befab754d12d0be0651626b66dc8cc2daa83a4ece2d"
+      "sha256": "8628277cbb5bf084cdb9136c3f133751b21d15e02fe72e3f369e1546b7c3e554"
+    },
+    {
+      "path": "_next/static/18rHWy6qJcAHUgA953nXT/_buildManifest.js",
+      "sha256": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea"
+    },
+    {
+      "path": "_next/static/18rHWy6qJcAHUgA953nXT/_clientMiddlewareManifest.js",
+      "sha256": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a"
+    },
+    {
+      "path": "_next/static/18rHWy6qJcAHUgA953nXT/_ssgManifest.js",
+      "sha256": "678f6ce2cb80b1fe72fc67e7412be6e2ab6ada083111b64f7c40d35e3cba5e00"
     },
     {
       "path": "_next/static/chunks/0425_tyx5_alm.js",
@@ -59,36 +71,24 @@
       "sha256": "921a0301e197350174993b7fb89c23581aa715f25d1275efd12e6c3ad3f922f0"
     },
     {
-      "path": "_next/static/eGr44-NP4mFolA27XJAo7/_buildManifest.js",
-      "sha256": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea"
-    },
-    {
-      "path": "_next/static/eGr44-NP4mFolA27XJAo7/_clientMiddlewareManifest.js",
-      "sha256": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a"
-    },
-    {
-      "path": "_next/static/eGr44-NP4mFolA27XJAo7/_ssgManifest.js",
-      "sha256": "678f6ce2cb80b1fe72fc67e7412be6e2ab6ada083111b64f7c40d35e3cba5e00"
-    },
-    {
       "path": "_not-found.html",
-      "sha256": "d46b29cc33faf66fb668b7feade7911ba37a2e9adc9bab6c84cf92dfa989ba82"
+      "sha256": "ef4a0d8c53a568c86c7c5546d80d6a6d49500b7d321197f06701f2498f69f15b"
     },
     {
       "path": "_not-found.txt",
-      "sha256": "5490c3d7a6c127e1dba5001d8dc700aa4cd99ba805b5528f4c3ce3de0d45987d"
+      "sha256": "9c84c93761871b024a0d1afec6ec9b47423eb37ee93d4e3ce0d3e2c93338905f"
     },
     {
       "path": "_not-found/__next._full.txt",
-      "sha256": "5490c3d7a6c127e1dba5001d8dc700aa4cd99ba805b5528f4c3ce3de0d45987d"
+      "sha256": "9c84c93761871b024a0d1afec6ec9b47423eb37ee93d4e3ce0d3e2c93338905f"
     },
     {
       "path": "_not-found/__next._not-found/__PAGE__.txt",
-      "sha256": "0e17532a5e86a0dd6976c121f6b254300222bce68e57ad23da4990f241269a03"
+      "sha256": "edca0d318b62c43bf762aa4468747d66cfad325d6e67ba74155fb5cfb73750ec"
     },
     {
       "path": "_not-found/__next._tree.txt",
-      "sha256": "61cbe9e2edfced679c82081d4bfede6075e0621a008db272c0cd18e3fbed1674"
+      "sha256": "c1a6b046de90bc5d8152350c7ddf6a0229aae214ab3171f8d7b0eb7bd9c49d9f"
     },
     {
       "path": "api/health",
@@ -104,11 +104,11 @@
     },
     {
       "path": "index.html",
-      "sha256": "33b827898cf0cc82f417b4edc42d8de93d5749a0f0fb05972928aafcf114bb30"
+      "sha256": "62f80eb83d22076f89d0d030145192bd09ded4a0dbac6e61f82f4b07a99eec6a"
     },
     {
       "path": "index.txt",
-      "sha256": "fdaf90b0d439ead5500015d075ee29544d2e5019e160c55bd66e76b48657f44d"
+      "sha256": "42db71b9778cfb17217b90333fd9317bc1a819d8edb69e5cde13b21abd28e803"
     }
   ]
 }
