@@ -1,2 +1,2 @@
 :HL["/saju-codi/preview/_next/static/chunks/33i_ns8l-62mw.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"18rHWy6qJcAHUgA953nXT"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"_zhmhLmG1dZ6c3-9guH8o"}
